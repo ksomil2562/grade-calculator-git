@@ -1,3 +1,3 @@
 # Grade Calculator (Git Merge Conflict Demo)
 
-This project is a simple command-line grade calculator created for a Git assignment to demonstrate branching, merging, and conflict resolution.
+This project is a grade calculator used to practice Git branching and create an intentional merge conflict (version from conflict-branch1).
