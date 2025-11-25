@@ -1,3 +1,3 @@
 # Grade Calculator (Git Merge Conflict Demo)
 
-This project is a Python grade calculator used to practice basic Git workflows like branching, committing, merging, and resolving merge conflicts.
+This project is a simple command-line grade calculator created for a Git assignment to demonstrate branching, merging, and conflict resolution.
